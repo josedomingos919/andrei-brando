@@ -1,7 +1,4 @@
-## Olá, eu sou o Andrei Brando
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning
+## Oii, eu sou o Andrei 🤙
 
 <div>
   <a href="https://github.com/andrei-brando">
