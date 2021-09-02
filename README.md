@@ -16,8 +16,8 @@ Reach me out 👇🏼
 ##
 <div>
   <a href="https://github.com/andrei-brando">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrei-brando&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei-brando&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josedomingos919&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josedomingos919&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -27,8 +27,6 @@ Reach me out 👇🏼
   <img align="center" alt="Andrei-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Andrei-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andrei-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Andrei-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Andrei-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
   
 ##
